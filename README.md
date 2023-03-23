@@ -20,6 +20,9 @@
 
   ## Usage:
   ### This project is a daily workday calendar. Unable to modify background color based on time.
+  ### ![fmaldmed github io_Fernando-s-Fantastic-Daily-Calendar_](https://user-images.githubusercontent.com/113961091/227107681-6efa69e0-7840-448f-9de6-85368b13af35.png)
+  
+
 
   ## Contributing:
   ### Contact owner through contact information.
